@@ -43,3 +43,9 @@ Command to save commit
 ```sh
 git commit -m (git commit -am)
 ```
+
+Show difference in our file
+```sh
+git diff
+```
+
