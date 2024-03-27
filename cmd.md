@@ -24,5 +24,7 @@ Windows:
 rm <filename>
 ```
 
-
-
+Command to check changes and commits
+```sh
+git log (git log --oneline; git log --graph)
+```
