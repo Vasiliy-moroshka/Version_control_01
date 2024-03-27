@@ -18,6 +18,11 @@ Windows:
 dir
 ```
 
+Command to delete file
+Windows:
+```sh
+rm <filename>
+```
 
 
 
