@@ -28,3 +28,18 @@ Command to check changes and commits
 ```sh
 git log (git log --oneline; git log --graph)
 ```
+
+Command to jump to different commits
+```sh
+git checkout
+```
+
+Command to add a file
+```sh
+git add <filename> (git add .)
+```
+
+Command to save commit 
+```sh
+git commit -m (git commit -am)
+```
