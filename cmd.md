@@ -49,3 +49,10 @@ Show difference in our file
 git diff
 ```
 
+Show branches in our file
+```sh
+git branch
+```
+
+
+
