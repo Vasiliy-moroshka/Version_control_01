@@ -54,5 +54,10 @@ Show branches in our file
 git branch
 ```
 
+Command to merge branches
+```sh
+git merge second_branch (name of branch from where we take)
+```
+
 
 
