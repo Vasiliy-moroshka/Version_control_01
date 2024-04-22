@@ -69,6 +69,24 @@ Command to delete branch
 git branch -d <branch_name>
 ```
 
+Push existing repository on GitHub
+
+```sh
+git remote add origin <link>
+```
+
+```sh
+git branch -M main
+```
+
+```sh
+git push -u origin main
+```
+
+later
+```sh
+git push
+```
 
 
 
