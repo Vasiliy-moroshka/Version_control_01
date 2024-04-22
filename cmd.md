@@ -88,5 +88,10 @@ later
 git push
 ```
 
+Command to pull from remote repository
+```sh
+git pull
+```
+
 
 
