@@ -28,9 +28,11 @@
 1. List1
 2. List2
 
-### Web links
+## Web links
 Text [example link](http.example.com "Tooltip")
 
-### Work with pictures 
+## Work with pictures 
 
-### Work with tables
+Чтобы вставить изображение в текст, достаточно написать следующее:
+![Привет, это Яблоко!](apple.jpg)
+## Work with tables
