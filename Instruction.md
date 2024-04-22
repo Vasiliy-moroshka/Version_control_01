@@ -35,4 +35,5 @@ Text [example link](http.example.com "Tooltip")
 
 Чтобы вставить изображение в текст, достаточно написать следующее:
 ![Привет, это Яблоко!](apple.jpg)
+
 ## Work with tables

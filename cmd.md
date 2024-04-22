@@ -59,5 +59,16 @@ Command to merge branches
 git merge second_branch (name of branch from where we take)
 ```
 
+Add new branch
+```sh
+git branch <branch_name>
+```
+
+Command to delete branch
+```sh
+git branch -d <branch_name>
+```
+
+
 
 
